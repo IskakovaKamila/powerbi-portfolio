@@ -1,5 +1,4 @@
 # Enterprise risks analysis powerbi-portfolio
-A portfolio of Power BI dashboards demonstrating data storytelling, business analysis, and visualization skills.
 
 This Power BI dashboard presents a comprehensive analysis of the most critical risks facing X Company. It provides an in-depth assessment of existing risks, their level of importance and criticality, potential mitigation effectiveness, and the company's current awareness and governance related to these risks.
 
